@@ -2,8 +2,8 @@
 
 ## Prerequis 
 ### Composer
-https://getcomposer.org/download/
-PHP et Mysql (evidement)
+* https://getcomposer.org/download/
+* PHP et Mysql (evidement)
 
 ### paquets natifs de PHP
 Laravel utilise quelques paquets de PHP qui ne sont pas activés automatiquement quand tu installes PHP, donc il faut les activer. 
