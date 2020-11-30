@@ -15,4 +15,10 @@ class Product extends Model
         'stock',
         'minimum_stock',
     ];
+
+    protected $casts = [
+        'price' => 'float',
+        'stock' => 'int',
+        'minimum_stock' => 'int',
+    ];
 }
